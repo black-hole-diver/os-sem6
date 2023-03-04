@@ -1,4 +1,4 @@
-#Operating Systems - 2022/2023-1 Spring Semester
+Operating Systems - 2022/2023-1 Spring Semester
 
 This repository contains materials for the Operating Systems course offered in the Spring semester of 2022/2023-1.
 
