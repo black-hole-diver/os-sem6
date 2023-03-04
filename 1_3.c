@@ -8,7 +8,7 @@
 
 int main(){
     char word[80];
-    printf("Enter a word");
+    printf("Enter a word: ");
     fgets(word, 80, stdin);
 
     int len = strlen(word);
